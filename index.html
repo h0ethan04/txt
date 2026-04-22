@@ -1,32 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
-  <title>TXT Viewer</title>
-  <style>
-    body {
-      background: #111;
-      color: #eee;
-      font-family: monospace;
-      padding: 20px;
-      white-space: pre-wrap;
-    }
-  </style>
+  <meta http-equiv="refresh" content="0;url=index.txt" />
+  <link rel="canonical" href="index.txt" />
 </head>
-<body>
-  <div id="content">loading...</div>
-  <script>
-    fetch("index.txt")
-      .then(res => {
-        if (!res.ok) throw new Error("fail");
-        return res.text();
-      })
-      .then(text => {
-        document.getElementById("content").textContent = text;
-      })
-      .catch(() => {
-        document.getElementById("content").textContent = "error loading file";
-      });
-  </script>
-</body>
 </html>
