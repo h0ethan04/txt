@@ -1,1 +1,66 @@
-This is a txt file
+
+Hi! My name is Ethan. Welcome to my personal website!
+
+This website was brought to you by [insert generic sponsor]!
+With [generic sponsor] you can [blah blah blah blah blah].
+
+Aren't you glad that this is *just* a text file?
+Imagine if that was a real ad.
+Served from the same domain as this site and merged into the page in order to prevent adblockers from removing it.
+And then I ran a script that checks for page modifications in order to request you disable your adblocker.
+
+Please use adblockers when on the internet.
+
+Anyways, a little about me.
+
+What I do for work:
+
+I'm a firmware engineer at Western Digital.
+My job mostly involves resolving bugs related to host (the thing the HDD is plugged into) interactions and with performance related issues.
+I like my job because it's reasonably challenging and I was bored of web dev after my internship and university work.
+There's always something new to learn every week, if not every day, which isn't something I can say about web dev.
+I've always felt that web dev is quite easy to get into the flow with, and so I could never be truly satisfied with CRUD work.
+Perhaps if I was working on some unique algorithm I would have enjoyed it more.
+
+As I just mentioned, I was previously involved in a good amount of web dev work.
+As a result, I have experience with all sorts of industry standard libraries and platforms such as Tomcat, React and AWS.
+Across all my roles I've explored tools like Docker, k8s, git and more.
+
+I've also used a variety of languages but at the moment I primarily work in C++, Python and TCL.
+Previously I've worked in Java and JavaScript.
+My favorite language is C -- mostly because I feel that pointers are easier to quickly identify and convey intention better than a C++ reference (non-const).
+
+My hobbies:
+
+My hobbies come and go, but I love motorsports -- F1, Endurance Racing, Rally, and MotoGP are some of my most watched sports.
+I generally enjoy hobbies that are hands on like LEGOs, cooking, building watches, building keyboards and various projects using microcontrollers.
+When I can, I also enjoy reading -- anything from comics/manga/manwha to sci-fi, fantasy, and contemporary romance books.
+
+I'm also a huge fan of Linux.
+I daily drive Fedora KDE on my desktop and Arch on my laptop (I use Arch btw).
+I helped found the Linux User Group at my college right before I graduated.
+I initially made the switch in college to Linux Mint because I was tired of Windows 11 being slow, bloated and all the changes Microslop kept pushing out.
+It also made work as a developer so much easier because most tools are designed to work on Linux systems, freeing me from relying on ssh-ing into my school servers.
+I also heavily riced my setups, something that I found extremely enjoyable and a great way to pass time while learning more about the tools I'm using.
+
+I love food and caffeine, especially exploring in order to try new things -- provided that I'm not driving upwards of 45 minutes each way.
+One of my goals is to visit a new restaurant or cafe every week, to explore the area where I live.
+I keep a list of all the cafes that I've ever visited for coffee or matcha, and because I love caffeine I'm always looking for an excuse to go out and try new drinks.
+I'm partial to banana flavored drinks and mango flavored drinks, and I swear by 2% milk.
+Feel free to reach out for some recs in OC (you can make an issue on Github and I'll respond there)!
+
+My life:
+
+One of my guiding philosophies in life is that we should always be challenged.
+Without challenging ourselves, we will never grow and we will never improve.
+There are many, many ways to challenge yourself.
+Physically, mentally, intellectually.
+No matter what you do, try to find one way to challenge yourself every day.
+Every day, try to be at least a tiny bit better than yesterday.
+
+I'm also a heavy believer that people who are fortunate enough to have experience and wisdom have the responsibility to foster growth in younger generations and in the less experienced.
+Knowledge and wisdom should never end with you.
+Find someone to mentor, to share your knowledge with, because you literally gain nothing from gatekeeping the information. 
+You never know what that person might do or become as a result of you spreading the wealth of information in your head.
+They might be inspired to change the field they're studying, to do extensive academic research in groundbreaking topics, to build or invent something that changes the world.
+
